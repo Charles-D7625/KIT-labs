@@ -1,0 +1,27 @@
+.card {
+  margin-top: 20px;
+  padding: 20px;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgb(169, 242, 245);
+}
+
+.button {
+  color: #fff;
+  padding: 10px 20px;
+  background: hsl(219, 70%, 52%);
+  border: none;
+  cursor: pointer;
+}
+.button:hover {
+  background: hsl(219, 70%, 52%);
+}
+
+.button:active {
+  background: rgb(152, 15, 0);
+  outline: none;
+}
+.button:focus {
+  outline: none;
+}
