@@ -1,0 +1,69 @@
+body {
+  background-color: rgb(218, 203, 70);
+}
+
+.App {
+  font-family: "Times New Roman", Times, serif, Haettenschweiler,
+    "Arial Narrow Bold", sans-serif;
+}
+
+.header {
+  padding: 15px;
+  background-color: rgb(238, 215, 84);
+  text-transform: uppercase;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.header a {
+  margin-right: 30px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: rgb(69, 226, 200);
+}
+
+.header a:active {
+  margin-right: 30px;
+  color: rgb(69, 226, 200);
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  background: rgb(238, 215, 84);
+  color: black;
+  height: 40px;
+  width: 90px;
+  font-family: "Times New Roman", Times, serif, Haettenschweiler,
+    "Arial Narrow Bold", sans-serif;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+
+.form {
+  margin-top: 10px;
+}
+
+input {
+  margin: 10px 0px 10px;
+  height: 25px;
+  border: none;
+  border-bottom: 1px solid blue;
+  outline: none;
+  background-color: rgb(255, 255, 255);
+  border-radius: 7px;
+  font-family: "Times New Roman", Times, serif, Haettenschweiler,
+    "Arial Narrow Bold", sans-serif;
+}
+
+.mainPage {
+  margin-top: 20px;
+}
+
+.aboba {
+  background-color: rgb(153, 147, 89);
+  color: rgb(255, 230, 0);
+}
